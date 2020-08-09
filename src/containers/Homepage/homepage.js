@@ -1,7 +1,6 @@
 import React from 'react';
 import Header from '../../components/header/index';
-import AssembleVideo from '../../components/assemble_video/index';
-import Description from '../../components/cuby_description';
+import Home from '../../components/home/index';
 import Features from '../../components/features';
 
 
@@ -9,9 +8,54 @@ function homepage() {
     return (
         <div>
             <Header />
-            <Description />
-            <AssembleVideo />
-            <Features />
+            <Home />
+            {/* <Features /> */}
+            <div> Hello
+            </div>
+            <div> Hello
+            </div>
+            <div> Hello
+            </div>
+            <div> Hello
+            </div>
+            <div> Hello
+            </div>
+            <div> Hello
+            </div>
+            <div> Hello
+            </div>
+            <div> Hello
+            </div>
+            <div> Hello
+            </div>
+            <div> Hello
+            </div>
+            <div> Hello
+            </div>
+            <div> Hello
+            </div>
+            <div> Hello
+            </div>
+            <div> Hello
+            </div>
+            <div> Hello
+            </div>
+            <div> Hello
+            </div>
+            <div> Hello
+            </div>
+            <div> Hello
+            </div>
+            <div> Hello
+            </div>
+            <div> Hello
+            </div>
+            <div> Hello
+            </div>
+            <div> Hello
+            </div>
+            <div> Hello
+            </div>
         </div>
     );
 }
