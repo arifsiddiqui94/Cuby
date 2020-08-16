@@ -20,12 +20,13 @@
   border-radius: 21px;
   padding: 7px 0px;
   cursor: pointer;
+  outline: none;
 }
 
-.cuby h1 {
-  font-size: 5rem;
-  margin-bottom: 0;
-  letter-spacing: 9px;
+.cuby button:hover {
+  background-color: #ededed;
+  color: #232323;
+  font-weight: 500;
 }
 
 .friend-text {

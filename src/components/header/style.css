@@ -36,6 +36,10 @@
   position: relative;
 }
 
+.logo-container {
+  cursor: pointer;
+}
+
 @media only screen and (max-width: 400px) {
   .logo-container {
     display: flex;
