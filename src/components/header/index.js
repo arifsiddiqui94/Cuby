@@ -12,7 +12,7 @@ function header() {
                         <span className="navbar-toggler-icon"></span>
                     </button>
                 </div>
-                <div className="collapse navbar-collapse justify-content-end pr-5" id="navbarNav">
+                <div className="collapse navbar-collapse justify-content-end" id="navbarNav">
                     <ul className="navbar-nav" id="#navbar-nav">
                         <li className="nav-item">
                             <a className="nav-link" href="#" >HOME</a>
@@ -33,7 +33,7 @@ function header() {
                             <a className="nav-link" href="#team"><span>TEAM</span></a>
                         </li>
 
-                        <li className="nav-item">
+                        <li className="nav-item mr-7">
                             <a className="nav-link" href="#contact"><span>CONTACT</span></a>
                         </li>
                     </ul>

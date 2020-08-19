@@ -1,5 +1,5 @@
 import React from 'react';
-import video from '../../assets/video.mp4';
+import video from '../../assets/cuby-video.mp4';
 import './style.css';
 
 function assembleVideo() {
