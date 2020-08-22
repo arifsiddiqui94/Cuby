@@ -18,7 +18,7 @@
   height: 2px;
   bottom: -7px;
   left: 0;
-  background-color: #011fcb;
+  background-color: #dedede;
   visibility: hidden;
   -webkit-transform: scaleX(0);
   transform: scaleX(0);
@@ -34,6 +34,14 @@
 
 .navbar-nav .nav-item {
   position: relative;
+}
+
+.logo-container {
+  cursor: pointer;
+}
+
+.mr-7 {
+  margin-right: 7px;
 }
 
 @media only screen and (max-width: 400px) {
