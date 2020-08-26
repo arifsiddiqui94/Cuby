@@ -5,7 +5,7 @@ import './style.css';
 function header() {
     return (
         <div>
-            <nav id="navbar" className="navbar fixed-top navbar-expand-lg navbar-light">
+            <nav id="navbar" className="navbar fixed-top navbar-expand-md navbar-light">
                 <div className="logo-container text-white">
                     <img src={logo} alt="logo" width="90" />
                     <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
