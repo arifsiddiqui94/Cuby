@@ -10,51 +10,7 @@ function homepage() {
             <Header />
             <Home />
             {/* <Features /> */}
-            <div> Hello
-            </div>
-            <div> Hello
-            </div>
-            <div> Hello
-            </div>
-            <div> Hello
-            </div>
-            <div> Hello
-            </div>
-            <div> Hello
-            </div>
-            <div> Hello
-            </div>
-            <div> Hello
-            </div>
-            <div> Hello
-            </div>
-            <div> Hello
-            </div>
-            <div> Hello
-            </div>
-            <div> Hello
-            </div>
-            <div> Hello
-            </div>
-            <div> Hello
-            </div>
-            <div> Hello
-            </div>
-            <div> Hello
-            </div>
-            <div> Hello
-            </div>
-            <div> Hello
-            </div>
-            <div> Hello
-            </div>
-            <div> Hello
-            </div>
-            <div> Hello
-            </div>
-            <div> Hello
-            </div>
-            <div> Hello
+            <div className="d-flex justify-content-center"> More content here
             </div>
         </div>
     );
